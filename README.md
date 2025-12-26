@@ -7,7 +7,7 @@ This repository contains structured data for the 2025 F1 season, covering:
 - **24 races** from Australia (31st March) to Abu Dhabi (7th December)
 - **Race results** with final grid positions
 - **Qualifying sessions** with starting grid positions
-- **Practice sessions** (FP1, FP2, FP3) where applicable
+- **Practice sessions** (practice/1,	practice/2,	practice/3) where applicable
 - **Sprint sessions** for sprint weekends (USA, Qatar, Brazil)
   
 **Status Codes:**
