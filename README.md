@@ -29,7 +29,20 @@ The repository is organised as below:
 │   ├── analysis/       # Output analysis
 │   └── races_all/      # Main data
 ├── images/             # Project images
+├── requirements.txt    # Required packages
 └── README.md           # Project overview
+```
+
+## Requirements
+
+This project requires **Python 3.8+**. 
+
+### Installation
+
+To install the necessary dependencies, run:
+
+```bash
+pip install -r requirements.txt
 ```
 
 ## Notes
